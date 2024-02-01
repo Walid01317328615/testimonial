@@ -1,0 +1,44 @@
+.header {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.row1 {
+    margin-top: 100px;
+}
+.header {
+box-shadow: 0 0 10px 0 gray;
+border-radius: 10px;
+background-image: linear-gradient(50deg,#2ebb77, #d5a2a2);
+}
+
+
+.fa-solid {
+    margin-top: 10px;
+    color: #5a5007;
+    font-size: 65px;
+    
+}
+.foter {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+#border {
+    border-left: 2px solid gray;
+    padding-left:12px ;
+    color: gray;
+}
+#pading{
+padding-right: 10px;
+}
+img {
+	width: 60px;
+	border-radius: 50%;
+}
+.foter2 {
+    margin-left: 10px;
+    margin-top: 7px;
+}
